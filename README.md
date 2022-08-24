@@ -1,2 +1,2 @@
-# DIO---DIGITAL-INOVATION-ONE
-Repositórios dos cursos da DIO
+# Linux Experience
+Repositórios das atiividades do curso.
